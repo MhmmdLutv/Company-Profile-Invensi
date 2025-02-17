@@ -1,0 +1,57 @@
+ 
+ 
+    {/* Proyek */}
+    {/* <div className="proyek pt-32" id='proyek'>
+                    <h1 className='text-center lg:text-5xl/tight text-3xl font-medium mb-2'>Partner</h1>
+                    <p className='text-center'>iNVENSI has partnerships with global vendors to offer the best application and solutions to support your business.</p>
+                    <div className="proyek-box pt-12 grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-6">
+                        <div className="box p-2 bg-white shadow">
+                            <img src={Proyek1} alt="Proyek Image" className='w-full h-[220px]' />
+                            <h3 className='text-xl font-bold mt-6 mb-2'>HillStone</h3>
+                            <p className='text-base/loose'>Infrastructure Protection solutions provide enterprises and service providers with the visibility and intelligence to comprehensively</p>
+                        </div>
+                        <div className="box p-2 bg-white shadow">
+                            <img src={Proyek2} alt="Proyek Image" className='w-full h-[220px]' />
+                            <h3 className='text-xl font-bold mt-6 mb-2'>Kapersky</h3>
+                            <p className='text-base/loose'>Kaspersky’s deep threat intelligence and security expertise is constantly transforming into innovative security solutions and services to protect businesses.</p>
+                        </div>
+                        <div className="box p-2 bg-white shadow">
+                            <img src={Proyek3} alt="Proyek Image" className='w-full h-[220px]' />
+                            <h3 className='text-xl font-bold mt-6 mb-2'>Sangfor</h3>
+                            <p className='text-base/loose'>Sangfor Technologies is a leading global vendor of IT infrastructure solutions, specializing in Cloud Computing & Network Security with a wide range of products & services including Hyper-Converged Infrastructure.</p>
+                        </div>
+                        <div className="box p-2 bg-white shadow">
+                            <img src={Proyek4} alt="Proyek Image" className='w-full h-[220px]' />
+                            <h3 className='text-xl font-bold mt-6 mb-2'>Dell</h3>
+                            <p className='text-base/loose'>At Dell Technologies, we continue to innovate, developing technology so you’re always ready to move forward. Learn more about end-to-end technology solutions and digital transformation accelerators.</p>
+                        </div>
+                        <div className="box p-2 bg-white shadow">
+                            <img src={Proyek5} alt="Proyek Image" className='w-full h-[220px]' />
+                            <h3 className='text-xl font-bold mt-6 mb-2'>qlue</h3>
+                            <p className='text-base/loose'>Build more efficient and effective organizations through IoT, AI, and mobile workforce implementation, enabling seamless automation, real-time data analytics, and enhanced decision-making. </p>
+                        </div>
+                    </div>
+                </div> */}
+
+
+                     {/* <div className="services pt-32" id='services'>
+                <h1 className='text-center lg:text-5xl/tight text-3xl font-medium mb-2'>Layanan</h1>
+                <p className='text-center'>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                <div className="services box pt-12 grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-6">
+                    <div className="box bg-sky-400 rounded-lg shadow p-4">
+                        <i className="ri-number-1 text-3xl text-white"></i>
+                        <h3 className='text-xl font-bold text-white mt-6 mb-2'>Service Name 1</h3>
+                        <p className='text-white text-base/loose'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti voluptate, sunt perferendis quidem perspiciatis cumque!</p>
+                    </div>
+                    <div className="box bg-sky-400 rounded-lg shadow p-4">
+                        <i className="ri-number-2 text-3xl text-white"></i>
+                        <h3 className='text-xl font-bold text-white mt-6 mb-2'>Service Name 2</h3>
+                        <p className='text-white text-base/loose'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti voluptate, sunt perferendis quidem perspiciatis cumque!</p>
+                    </div>
+                    <div className="box bg-sky-400 rounded-lg shadow p-4">
+                        <i className="ri-number-3 text-3xl text-white"></i>
+                        <h3 className='text-xl font-bold text-white mt-6 mb-2'>Service Name 3</h3>
+                        <p className='text-white text-base/loose'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti voluptate, sunt perferendis quidem perspiciatis cumque!</p>
+                    </div>
+                </div>
+            </div> */}
