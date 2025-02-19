@@ -97,10 +97,7 @@ export const HomePage = () => {
                     </div>
                 </div>
 
-
                 {/* Layanan */}
-
-
                 <div className="services pt-32" id='services'>
                     <h1 className='text-center lg:text-5xl/tight text-3xl font-medium mb-2'>Services</h1>
                     <p className='text-center'>We have product list that may help You sort things up, tidy it up, and make it better. Here is the list of Our product You may like to assess. If You have anything to ask, just Contact Us, so We can reach and assist You</p>
