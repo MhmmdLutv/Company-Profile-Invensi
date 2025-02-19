@@ -49,7 +49,6 @@ export const Contact = () => {
                             <i className="ri-phone-line text-xl text-blue-500 mr-2"></i>
                             (021) 798 9671
                         </p>
-
                     </div>
 
                     {/* Tambahkan Google Maps */}
@@ -88,7 +87,6 @@ export const Contact = () => {
                     <h3 className="text-white text-xl font-semibold mb-6">
                         Isi form berikut! Tim kami segera menghubungi Anda.
                     </h3>
-
                     <form className="space-y-6" onSubmit={handleSubmit}>
                         <input type="text" name="name" placeholder="Nama *" className="w-full p-4 rounded-md border border-gray-300 focus:ring-2 focus:ring-yellow-300 text-black" required onChange={handleChange} />
                         <input type="email" name="email" placeholder="Email *" className="w-full p-4 rounded-md border border-gray-300 focus:ring-2 focus:ring-yellow-300 text-black" required onChange={handleChange} />
