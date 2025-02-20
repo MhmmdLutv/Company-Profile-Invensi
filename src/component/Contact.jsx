@@ -35,9 +35,7 @@ export const Contact = () => {
             <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
                 {/* Bagian Alamat */}
                 <div className="space-y-6">
-                    <h2 className="text-3xl font-bold text-yellow-400">
-                        Invensi <span className="text-white">membantu Anda:</span>
-                    </h2>
+                    
                     <div className="mb-6 mt-5">
                         <h3 className="text-lg font-semibold">WorkShop Address</h3>
                         <p className="mt-2 text-gray-300 flex items-start">

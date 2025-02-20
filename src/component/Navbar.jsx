@@ -60,7 +60,7 @@ export const Navbar = () => {
           <li className="relative">
               <div
                 className="flex items-center gap-3 cursor-pointer"
-                onClick={handleDropdownClick} // Toggle dropdown saat diklik
+                onClick={handleDropdownClick} 
               >
                 <i className="ri-more-line text-3xl md:hidden block"></i>
                 <span className="font-medium hover:text-sky-400">Demo</span>
