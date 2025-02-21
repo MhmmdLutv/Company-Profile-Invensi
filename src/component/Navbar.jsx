@@ -9,7 +9,6 @@ export const Navbar = () => {
   const [scroll, setScroll] = useState(false)
   const [showDropdown, setShowDropdown] = useState(false);
 
-
   const handleDropdownClick = () => {
     setShowDropdown(!showDropdown);
   };

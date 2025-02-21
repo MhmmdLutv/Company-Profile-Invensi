@@ -20,16 +20,13 @@ const transporter = nodemailer.createTransport({
 
 app.post("/send-email", async (req, res) => {
     console.log("Request diterima:", req.body);
-
     const { name, email, phone, company, message } = req.body;
-
     const mailOptions = {
         from: process.env.EMAIL_USER,
         to: "mlutvburdah@gmail.com",
         subject: "Pesan Baru dari Formulir Kontak",
         text: `Nama: ${name}\nEmail: ${email}\nNo WhatsApp: ${phone}\nPerusahaan: ${company}\nPesan: ${message}`,
     };
-
     try {
         const info = await transporter.sendMail(mailOptions);
         console.log("Email berhasil dikirim:", info.response);
