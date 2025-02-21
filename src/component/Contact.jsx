@@ -51,16 +51,17 @@ export const Contact = () => {
 
                     {/* Tambahkan Google Maps */}
                     <div className="rounded-lg overflow-hidden shadow-lg">
-                        <iframe
-                            title="Lokasi Kantor"
-                            width="100%"
-                            height="300"
-                            className="rounded-lg"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.2731182955895!2d106.77000000000001!3d-6.235000000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMTQnMDguMCJTIDEwNsKwNDYnMjAuMCJF!5e0!3m2!1sen!2sid!4v1708192512723"
-                            allowFullScreen
-                            loading="lazy"
-                            referrerPolicy="no-referrer-when-downgrade"
-                        ></iframe>
+                    <iframe
+    title="Lokasi Kantor"
+    width="100%"
+    height="300"
+    className="rounded-lg"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.2731182955895!2d106.77000000000001!3d-6.235000000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMTQnMDguMCJTIDEwNsKwNDYnMjAuMCJF!5e0!3m2!1sen!2sid!4v1708192512723"
+    allowFullScreen
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+></iframe>
+
                     </div>
                     <div className="py-14">
                         <h3 className="text-lg font-semibold">Follow Us</h3>
